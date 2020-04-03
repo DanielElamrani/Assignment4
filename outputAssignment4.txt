@@ -1,0 +1,273 @@
+Average amount of films per genre: 1420
+
+
+Amount of films in each genre
+
+
+Action: 1828 and is above the average movies per genre
+Comedy: 3756 and is above the average movies per genre
+Crime: 1199 and is below the average movies per genre
+Animation: 611 and is below the average movies per genre
+Drama: 4361 and is above the average movies per genre
+Sci-Fi: 980 and is below the average movies per genre
+Documentary: 440 and is below the average movies per genre
+Mystery: 573 and is below the average movies per genre
+Horror: 978 and is below the average movies per genre
+Children: 664 and is below the average movies per genre
+Romance: 1596 and is above the average movies per genre
+Thriller: 1894 and is above the average movies per genre
+Adventure: 1263 and is below the average movies per genre
+Fantasy: 779 and is below the average movies per genre
+War: 382 and is below the average movies per genre
+
+
+Amount of films in each genre in the past 5 years
+
+
+Action: 165
+Comedy: 252
+Crime: 64
+Animation: 62
+Drama: 224
+Sci-Fi: 101
+Documentary: 44
+Mystery: 35
+Horror: 69
+Children: 39
+Romance: 46
+Thriller: 133
+Adventure: 117
+Fantasy: 64
+War: 8
+
+
+Amount of films per genre per decade
+
+
+1900's
+
+Action: 1
+Comedy: 1
+Crime: 1
+Animation: 1
+Drama: 0
+Sci-Fi: 2
+Documentary: 0
+Mystery: 0
+Horror: 0
+Children: 0
+Romance: 0
+Thriller: 0
+Adventure: 1
+Fantasy: 1
+War: 0
+
+
+1910's
+
+Action: 1
+Comedy: 3
+Crime: 0
+Animation: 0
+Drama: 3
+Sci-Fi: 1
+Documentary: 0
+Mystery: 0
+Horror: 0
+Children: 0
+Romance: 1
+Thriller: 0
+Adventure: 1
+Fantasy: 1
+War: 1
+
+
+1920's
+
+Action: 3
+Comedy: 15
+Crime: 2
+Animation: 1
+Drama: 16
+Sci-Fi: 2
+Documentary: 1
+Mystery: 1
+Horror: 5
+Children: 1
+Romance: 9
+Thriller: 2
+Adventure: 5
+Fantasy: 6
+War: 2
+
+
+1930's
+
+Action: 8
+Comedy: 53
+Crime: 15
+Animation: 5
+Drama: 74
+Sci-Fi: 3
+Documentary: 2
+Mystery: 6
+Horror: 9
+Children: 10
+Romance: 48
+Thriller: 11
+Adventure: 13
+Fantasy: 8
+War: 8
+
+
+1940's
+
+Action: 8
+Comedy: 55
+Crime: 29
+Animation: 8
+Drama: 118
+Sci-Fi: 2
+Documentary: 1
+Mystery: 25
+Horror: 12
+Children: 12
+Romance: 54
+Thriller: 32
+Adventure: 13
+Fantasy: 11
+War: 18
+
+
+1950's
+
+Action: 15
+Comedy: 67
+Crime: 29
+Animation: 7
+Drama: 146
+Sci-Fi: 35
+Documentary: 1
+Mystery: 17
+Horror: 25
+Children: 13
+Romance: 64
+Thriller: 32
+Adventure: 30
+Fantasy: 11
+War: 28
+
+
+1960's
+
+Action: 56
+Comedy: 132
+Crime: 43
+Animation: 24
+Drama: 192
+Sci-Fi: 35
+Documentary: 8
+Mystery: 20
+Horror: 40
+Children: 40
+Romance: 60
+Thriller: 49
+Adventure: 65
+Fantasy: 25
+War: 40
+
+
+1970's
+
+Action: 103
+Comedy: 155
+Crime: 70
+Animation: 26
+Drama: 225
+Sci-Fi: 59
+Documentary: 11
+Mystery: 38
+Horror: 63
+Children: 38
+Romance: 44
+Thriller: 95
+Adventure: 71
+Fantasy: 31
+War: 28
+
+
+1980's
+
+Action: 227
+Comedy: 492
+Crime: 124
+Animation: 63
+Drama: 439
+Sci-Fi: 156
+Documentary: 26
+Mystery: 62
+Horror: 176
+Children: 69
+Romance: 154
+Thriller: 180
+Adventure: 170
+Fantasy: 106
+War: 47
+
+
+1990's
+
+Action: 392
+Comedy: 890
+Crime: 264
+Animation: 100
+Drama: 1038
+Sci-Fi: 173
+Documentary: 73
+Mystery: 115
+Horror: 160
+Children: 183
+Romance: 422
+Thriller: 420
+Adventure: 239
+Fantasy: 149
+War: 60
+
+
+2000's
+
+Action: 549
+Comedy: 1135
+Crime: 404
+Animation: 204
+Drama: 1365
+Sci-Fi: 266
+Documentary: 198
+Mystery: 183
+Horror: 298
+Children: 190
+Romance: 523
+Thriller: 654
+Adventure: 363
+Fantasy: 252
+War: 110
+
+
+2010's
+
+Action: 464
+Comedy: 758
+Crime: 218
+Animation: 172
+Drama: 743
+Sci-Fi: 244
+Documentary: 119
+Mystery: 106
+Horror: 190
+Children: 108
+Romance: 217
+Thriller: 417
+Adventure: 292
+Fantasy: 178
+War: 40
+BUILD SUCCESSFUL (total time: 0 seconds)
