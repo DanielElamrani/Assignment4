@@ -1,5 +1,7 @@
 # Assignment4
 Assignment 4 for 3130
+Daniel Elamrani
+TY2 T 2:15-3:30pm / TH 1:25-3:30pm
 
 In this assignment we were tasked with creating a report given a data file containing movie titles, release year and genre.
 As with the last few assignments, commas have been dealt with via find and replace. To extract the data from the file I first read in
